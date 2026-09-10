@@ -2,7 +2,7 @@
 
 面向玩法作者：只写 `badge::App` 钩子，通过 `badge::` 外观调用硬件。不要 include `adapters/` 或 `ports/`。
 
-协议为 MIT，Copyright (c) 2026 DefineJoy。
+协议为 MIT，Copyright (c) 2026 DefineJoy。设计理念（模板方法、外观、端口与适配器、蓝牙门面边界）见仓库根目录 [README.zh_CN.md](../README.zh_CN.md) 的「设计理念」一节。
 
 ## 最小应用
 
